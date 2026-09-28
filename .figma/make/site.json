@@ -1,0 +1,10 @@
+{
+  "description": "Transform documents into visually stunning websites effortlessly, ideal for businesses and individuals seeking to enhance their online presence.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
